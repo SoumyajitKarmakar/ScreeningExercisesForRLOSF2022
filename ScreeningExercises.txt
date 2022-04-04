@@ -1,0 +1,12 @@
+1. In this project we plan to tackle the problem of LLVM pass ordering to reduce instruction count.
+  My idea is to first implement an RL agent on the Proximal Policy Optimization (PPO) Architecture, using VowpalWabbit, and train on all the given benchmarks.
+  Then I plan to experiment with various search algorithms, such as variations of random search, greedy search and some others strategies, on the action probabilities of the model to get the final result.
+  The reason I want to tackle this problem is reducing the instruction count would directly mean reducing the processor cycles, which would naturally mean faster execution. I feel this is one optimization task which would greatly benefit by the use of Artificial Intelligence.
+  
+2. Links to past projects:
+
+  https://github.com/SoumyajitKarmakar/LL1-Parser
+  https://github.com/SoumyajitKarmakar/Internship_CEERI
+  https://github.com/SoumyajitKarmakar/CS360_Machine-Learning-Lab
+  https://github.com/SoumyajitKarmakar/CS232_Operating-Systems-Lab
+  https://github.com/SoumyajitKarmakar/CS210_Algorithm-Lab
